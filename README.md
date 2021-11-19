@@ -1,69 +1,26 @@
-# HelpCar
+O projeto é criar um aplicativo de carona comunitária.
 
-## Build Setup
+<div align="center">
+  <h3>Essas são as telas Iniciais de login.</h3>
+  
+![image](https://user-images.githubusercontent.com/84832253/142703704-9e2adf75-4972-4912-b150-58b283568251.png)
+![image](https://user-images.githubusercontent.com/84832253/142703879-e5639e7c-3bde-458d-a5a5-70ea67835b8a.png)
 
-```bash
-# install dependencies
-$ npm install
+  <h3>Essas são algumas das telas de cadastro disponiveis no aplicativo.</h3>
+  
+![image](https://user-images.githubusercontent.com/84832253/142703748-fd20283d-1b42-400b-b557-cfabf481180a.png)
+![image](https://user-images.githubusercontent.com/84832253/142703829-c85d1f70-c973-4e98-9f1e-c98a5262d4f2.png)
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+  <h3>Esse seria algum tipo de menu.</h3>
+  
+![image](https://user-images.githubusercontent.com/84832253/142703987-f5f0dbe6-2f9e-4943-ab32-a602415e1e85.png)
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+  <h3>Aqui podemos ver a tela principal com um mapa, onde ficariam visiveis as Trajetórias.</h3>
+  
+![image](https://user-images.githubusercontent.com/84832253/142704074-d5cbf39b-9369-4e89-8c48-0d0389476fd5.png)
 
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
-
-## Special Directories
-
-You can create the following extra directories, some of which have special behaviors. Only `pages` is required; you can delete them if you don't want to use their functionality.
-
-### `assets`
-
-The assets directory contains your uncompiled assets such as Stylus or Sass files, images, or fonts.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/assets).
-
-### `components`
-
-The components directory contains your Vue.js components. Components make up the different parts of your page and can be reused and imported into your pages, layouts and even other components.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/components).
-
-### `layouts`
-
-Layouts are a great help when you want to change the look and feel of your Nuxt app, whether you want to include a sidebar or have distinct layouts for mobile and desktop.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/layouts).
-
-
-### `pages`
-
-This directory contains your application views and routes. Nuxt will read all the `*.vue` files inside this directory and setup Vue Router automatically.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/get-started/routing).
-
-### `plugins`
-
-The plugins directory contains JavaScript plugins that you want to run before instantiating the root Vue.js Application. This is the place to add Vue plugins and to inject functions or constants. Every time you need to use `Vue.use()`, you should create a file in `plugins/` and add its path to plugins in `nuxt.config.js`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/plugins).
-
-### `static`
-
-This directory contains your static files. Each file inside this directory is mapped to `/`.
-
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/static).
-
-### `store`
-
-This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+  <h3>Por fim, a comunicaçao disponivel via mensagens.</h3>
+  
+![image](https://user-images.githubusercontent.com/84832253/142704114-5623c6bd-f529-4e79-bdca-b496edcc8ca6.png)
+![image](https://user-images.githubusercontent.com/84832253/142704191-bbcee1ac-2e2b-42f3-bcf2-deaca29d5cf0.png)
+</div>
