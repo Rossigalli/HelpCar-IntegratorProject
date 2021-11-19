@@ -1,0 +1,35 @@
+{
+  "Sticker": {
+    "description": "Auto imported from components/welcome/Sticker.vue"
+  },
+  "FormOne": {
+    "description": "Auto imported from components/cadastro/FormOne.vue"
+  },
+  "FormThree": {
+    "description": "Auto imported from components/cadastro/FormThree.vue"
+  },
+  "FormTwo": {
+    "description": "Auto imported from components/cadastro/FormTwo.vue"
+  },
+  "FormZero": {
+    "description": "Auto imported from components/cadastro/FormZero.vue"
+  },
+  "ForwardButton": {
+    "description": "Auto imported from components/cadastro/ForwardButton.vue"
+  },
+  "Chat": {
+    "description": "Auto imported from components/home/Chat.vue"
+  },
+  "Map": {
+    "description": "Auto imported from components/home/Map.vue"
+  },
+  "Menu": {
+    "description": "Auto imported from components/home/Menu.vue"
+  },
+  "Message": {
+    "description": "Auto imported from components/home/Message.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "cadastro",
+    "path": "/cadastro",
+    "component": "C:\\\\Users\\\\mathe\\\\OneDrive - Fatec Centro Paula Souza\\\\Faculdade\\\\3º Semestre\\\\Projeto Integrador\\\\HelpCarApp\\\\pages\\\\cadastro.vue",
+    "chunkName": "pages/cadastro"
+  },
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "C:\\\\Users\\\\mathe\\\\OneDrive - Fatec Centro Paula Souza\\\\Faculdade\\\\3º Semestre\\\\Projeto Integrador\\\\HelpCarApp\\\\pages\\\\home.vue",
+    "chunkName": "pages/home"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\mathe\\\\OneDrive - Fatec Centro Paula Souza\\\\Faculdade\\\\3º Semestre\\\\Projeto Integrador\\\\HelpCarApp\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\mathe\\\\OneDrive - Fatec Centro Paula Souza\\\\Faculdade\\\\3º Semestre\\\\Projeto Integrador\\\\HelpCarApp\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
