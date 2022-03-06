@@ -1,4 +1,5 @@
-O projeto é criar um aplicativo de carona comunitária.
+Esse foi um projeto da faculdade, a ideia principal não era o desenvolvimento, e sim apenas a apresentação de um possivel aplicativo. 
+Decidi fazer algumas telas de demonstração utilizando o o VueJs, um framework que me chamou a atenção na época. 
 
 <div align="center">
   <h3>Essas são as telas Iniciais de login.</h3>
